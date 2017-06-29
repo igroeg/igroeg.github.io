@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "The lazy developer's blog"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Georgi Stoyanov"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -239,8 +239,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
