@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "The lazy developer's blog"
+title                    : "Georgi Stoyanov's blog"
 title_separator          : "-"
 name                     : "Georgi Stoyanov"
-description              : "Website for some clever things that could be found useful for every lazy and curious developer"
+description              : "Blog for programming, economics and music"
 url                      : "https://igroeg.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "igroeg/igroeg.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Georgi Stoyanov"
   avatar           : "/assets/images/profile.jpeg"
-  bio              : "Most of the time software developer, but also telecommunications engineer, who loves music"
+  bio              : "Most of the time Software Developer, Telecommunications Engineer, who has interesests in Economics, Game Theory, but also music & books lover.
   location         : "Sofia, Bulgaria"
   email            : gstoyanov@live.com
   uri              :
