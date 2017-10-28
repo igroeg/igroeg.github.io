@@ -74,6 +74,8 @@ analytics:
   google:
     tracking_id          :
 
+# Minimalistics
+minimal_mistakes_skin : "air" # "default", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Author
 author:
