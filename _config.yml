@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Georgi Stoyanov's blog"
+title                    : "You are not alone!"
 title_separator          : "-"
-name                     : "Georgi Stoyanov"
-description              : "Blog for programming, economics and music"
-url                      : "https://igroeg.github.io"
+name                     : # "Georgi Stoyanov"
+description              : "Programming and stuffs"
+url                      : # "https://igroeg.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "igroeg/igroeg.github.io"
+repository               : # "igroeg/igroeg.github.io"
 teaser                   : "/assets/images/sample.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : gstoyanov90
+  username               : # gstoyanov90
 facebook:
   username               :
   app_id                 :
@@ -67,9 +67,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: 
-    - "https://twitter.com/gstoyanov90"
-    - "https://facebook.com/gstoyanov90"
-    - "https://www.linkedin.com/in/georgi-stoyanov-7b335b57/"
+   # - "https://twitter.com/gstoyanov90"
+   # - "https://facebook.com/gstoyanov90"
+   # - "https://www.linkedin.com/in/georgi-stoyanov-7b335b57/"
 
 # Analytics
 analytics:
@@ -85,27 +85,27 @@ author:
   name             : "Georgi Stoyanov"
   avatar           : "/assets/images/profile.jpeg"
   bio              : "Software Developer, music & books lover with interests in economics, game theory and board games"
-  location         : "Sofia, Bulgaria"
-  email            : gstoyanov@live.com
+  location         : # "Sofia, Bulgaria"
+  email            : # gstoyanov@live.com
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "gstoyanov90"
+  facebook         :  # "gstoyanov90"
   foursquare       :
-  github           : "igroeg"
+  github           : # "igroeg"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "georgi-stoyanov-7b335b57/"
+  linkedin         : # "georgi-stoyanov-7b335b57/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "gstoyanov90"
+  twitter          : # "gstoyanov90"
   vine             :
   weibo            :
   xing             :
